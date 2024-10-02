@@ -145,11 +145,5 @@ cv2.destroyAllWindows()
 ![Screenshot 2024-10-02 115505](https://github.com/user-attachments/assets/a0417b92-900e-4514-80d5-e2ead7c48a4e)
 
 
-
-## Result:
-
-Thus the image is accessed from webcamera and displayed using openCV.
-
-
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
